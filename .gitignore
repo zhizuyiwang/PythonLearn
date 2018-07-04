@@ -5,7 +5,9 @@
 # IntelliJ project files
 .idea
 *.iml
-/venv
-/venv36
+/venv/Include
+/venv/Lib
+/venv36/Include
+/venv36/Lib
 out
 gen
