@@ -1,2 +1,2 @@
 import requests
-requests
+requests.request("","","")
